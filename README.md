@@ -8,3 +8,4 @@ The javaScript file of this project has some robust, dry and clean code which yo
 Checkout the code (if you have time) 😀
 Thank you for reading.
 # Deployed Project
+https://bakistdom-advanced-bakhtiyorjondadajonov.netlify.app/
